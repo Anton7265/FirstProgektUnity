@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Оцените мои старания</h1>
-    <a href="Dream.exe">Скачать игру</a>
+    <a href="Dream.exe">скачать игру<a>
 </body>
 </html>
